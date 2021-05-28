@@ -13,3 +13,26 @@ main {
     justify-content: stretch;
     align-items: stretch;
 }
+
+.left-hand-side, .right-hand-side {
+    flex: 1;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+button {
+    margin ;
+    padding: 3px 5px;
+    font-family: inherit;
+    text-transform: uppercase;
+    color: white;
+    font-size: 1.5rem;
+    border: 1pt solid white;
+}
