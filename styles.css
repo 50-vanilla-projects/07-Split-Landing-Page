@@ -83,18 +83,15 @@ button {
         flex-direction: column;
     }
     .right-hand-side {
-        background-color: rgba(94, 94, 0, 0.5);
-
+        background-color: rgba(58, 58, 0, 0.5);
     }
     .left-hand-side, .right-hand-side {
         width: 100vw;
         color: white;
     }
-
     img {
         object-fit: contain;
     }
- 
     h1 {
         position: absolute;
         top: 10vh;
@@ -102,7 +99,7 @@ button {
     }
     button {
         position: absolute;
-        top: 30vh;
+        top: 25vh;
     }
     .right-hand-side button {
         color: white;
