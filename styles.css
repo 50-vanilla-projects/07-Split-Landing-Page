@@ -53,6 +53,7 @@ button {
 }
 .left-hand-side button:hover {
     background-color: rgba(7, 61, 9, 0.9);
+    border-color: rgba(7, 61, 9, 0.9);
 }
 .left-hand-side button:active {
     background-color: black;
@@ -64,6 +65,7 @@ button {
 }
 .right-hand-side button:hover {
     background-color: rgba(7, 61, 9, 0.5);
+    border-color: rgba(7, 61, 9, 0.5);
 }
 .right-hand-side button:active {
     background-color: black;
