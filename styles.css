@@ -83,6 +83,7 @@ button {
         flex-direction: column;
     }
     .left-hand-side, .right-hand-side {
+        flex: 1;
         width: 100vw;
         color: white;
     }
